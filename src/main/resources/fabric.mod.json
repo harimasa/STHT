@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "stht",
+	"version": "${version}",
+	"name": "SomeTotemHandTransfer",
+	"description": "When you hover the mouse over a totem in the inventor, it automatically moves to the secondary hand.",
+	"authors": [
+		"harimasa"
+	],
+	"contact": {
+		"sources": "https://github.com/harimasa/STHT"
+	},
+	"license": "GPL-3.0-or-later",
+	"icon": "assets/stht/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"client": [
+			"ru.harimasa.SomeTotemHandTransfer"
+		],
+		"modmenu": [
+			"ru.harimasa.configuration.ModMenuInit"
+		]
+	},
+	"mixins": [
+		"stht.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

@@ -1,0 +1,14 @@
+{
+  "stht.title": "STHT Configuration",
+  "stht.category.main": "Main",
+  "stht.main.isEnabled": "Включить?",
+  "stht.main.isEnabled.desc": "Включение или отключение мода.",
+  "stht.main.delay": "Задержка",
+  "stht.main.delay.desc": "Задержка перед перемещением тотема в секундах.",
+  "stht.main.isUsageEnchantedTotems": "Использовать зачарованные тотемы?",
+  "stht.main.isUsageEnchantedTotems.desc": "Заставляет не игнорировать зачарованные тотемы.",
+  "stht.main.isUsageRenamedTotems": "использовать переименованные тотемы?",
+  "stht.main.isUsageRenamedTotems.desc": "Заставляет не игнорировать переименованные тотемы.",
+  "stht.main.isIgnoreItemInSecondaryHand": "Игнорировать предмет во второстепенной руке?",
+  "stht.main.isIgnoreItemInSecondaryHand.desc": "Заставляет игнорировать предмет во второстепенной руке и заменяет его на тотемы."
+}

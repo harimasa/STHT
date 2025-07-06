@@ -1,0 +1,14 @@
+{
+  "stht.title": "STHT Configuration",
+  "stht.category.main": "Main",
+  "stht.main.isEnabled": "Enabled?",
+  "stht.main.isEnabled.desc": "Enabling and disabling the mod.",
+  "stht.main.delay": "Delay",
+  "stht.main.delay.desc": "Delay before moving the totem in seconds.",
+  "stht.main.isUsageEnchantedTotems": "Use enchanted totems?",
+  "stht.main.isUsageEnchantedTotems.desc": "Does not ignore the use of enchanted totems.",
+  "stht.main.isUsageRenamedTotems": "Use renamed totems?",
+  "stht.main.isUsageRenamedTotems.desc": "Does not ignore the use of renamed totems.",
+  "stht.main.isIgnoreItemInSecondaryHand": "Ignore Item in Secondary Hand?",
+  "stht.main.isIgnoreItemInSecondaryHand.desc": "Causes you to ignore items in the secondary hand to change them to totems."
+}
